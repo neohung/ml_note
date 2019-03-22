@@ -16,6 +16,7 @@ xlrd = "*"
 ipykernel = "*"
 seaborn = "*"
 psutil = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6"
